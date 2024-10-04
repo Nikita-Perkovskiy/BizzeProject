@@ -1,0 +1,1 @@
+export { MainRadioGroup } from "./MainRadioGroup";

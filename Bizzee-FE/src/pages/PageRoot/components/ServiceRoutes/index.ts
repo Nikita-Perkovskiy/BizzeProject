@@ -1,0 +1,1 @@
+export { ServiceRoutes } from "./serviceRoutes";

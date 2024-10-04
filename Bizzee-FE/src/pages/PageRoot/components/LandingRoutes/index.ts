@@ -1,0 +1,1 @@
+export { LandingRoutes } from "./landingRoutes";

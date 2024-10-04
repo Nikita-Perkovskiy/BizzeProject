@@ -1,0 +1,1 @@
+export { OnlyModal } from "./OnlyModal";

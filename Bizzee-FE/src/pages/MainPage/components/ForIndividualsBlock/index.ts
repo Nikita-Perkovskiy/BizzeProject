@@ -1,0 +1,1 @@
+export { ForIndividualsBlock } from "./ForIndividualsBlock";

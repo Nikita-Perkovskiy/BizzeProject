@@ -1,0 +1,1 @@
+export { SettingRoutes } from "./settingRoutes";

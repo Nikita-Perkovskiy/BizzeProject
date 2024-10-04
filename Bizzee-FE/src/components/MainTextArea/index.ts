@@ -1,0 +1,1 @@
+export { MainTextArea } from "./MainTextArea";

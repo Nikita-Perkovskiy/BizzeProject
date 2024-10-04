@@ -1,0 +1,1 @@
+export { TabletBanner } from "./TabletBanner";

@@ -1,0 +1,1 @@
+export { MyProfileMenuTablet } from "./MyProfileMenuTablet";

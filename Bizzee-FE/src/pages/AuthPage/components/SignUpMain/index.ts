@@ -1,0 +1,1 @@
+export { SignUpMain } from "./SignUpMain";

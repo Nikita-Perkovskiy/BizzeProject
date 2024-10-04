@@ -1,0 +1,31 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "baseUrl": "src",
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "useUnknownInCatchVariables": false,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react",
+    "downlevelIteration": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "allowUnreachableCode": false,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "pretty": true
+  },
+  "include": [
+    "src",
+    "src/pages/LogInFormPage/LogInFormPage.styled.ts",
+    "src/pages/Settings/components/Services/components/AddServices/components/MultiSelectAutocomplete/.styled.ts"
+  ],
+  "exclude": ["node_modules", "dist", "build"]
+}

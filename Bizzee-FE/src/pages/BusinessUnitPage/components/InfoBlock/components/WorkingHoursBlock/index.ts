@@ -1,0 +1,1 @@
+export { WorkingHoursBlock } from "./WorkingHoursBlock";

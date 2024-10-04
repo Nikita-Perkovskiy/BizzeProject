@@ -1,0 +1,1 @@
+export { ForIndividuals } from "./ForIndividuals";
